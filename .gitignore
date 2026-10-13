@@ -27,3 +27,6 @@ Thumbs.db
 
 # Turbo
 .turbo
+.neon
+.vercel
+.env*

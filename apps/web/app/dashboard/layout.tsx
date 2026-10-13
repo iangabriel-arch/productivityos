@@ -130,7 +130,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
       </nav>
 
       <div className="px-3 py-4 border-t border-white/[0.06] flex items-center gap-3 shrink-0">
-        <UserButton afterSignOutUrl="/" />
+        <UserButton />
         <span className="text-xs text-white/40 font-medium truncate">My workspace</span>
       </div>
     </>
